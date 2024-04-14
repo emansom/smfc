@@ -1,4 +1,4 @@
-%global forgeurl https://github.com/petersulyok/smfc
+%global forgeurl https://github.com/emansom/smfc
 %global tag smfc-3.5.0-1
 %forgemeta
 
