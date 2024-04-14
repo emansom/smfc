@@ -82,3 +82,6 @@ install -Dm 644 systemd/modules-load.conf %{buildroot}%{_modulesloaddir}/smfc.co
 %systemd_postun_with_restart smfc.service
 
 %changelog
+* Sun Apr 14 2024 Ewout van Mansom <ewout@vanmansom.name> 3.5.0-1
+- new package built with tito
+
